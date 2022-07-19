@@ -1,2 +1,3 @@
 # Blobs
-Open Source code for blobs
+Blobs The Game
+Made by Ayden & Temidayo
